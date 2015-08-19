@@ -24,3 +24,6 @@ To read this file into R, in your working directory use the command
 ```{r}
 read.table(file = "dataset_tidy.txt", header=TRUE)
 ```
+
+For reference, the following is the link to download the original data set:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
